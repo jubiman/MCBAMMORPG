@@ -1,0 +1,17 @@
+{
+	"entrypoints": {
+		"main": [
+		  "com.jubiman.mcbammorpg.MCBAMMORPG"
+		]
+	},
+	"id": "mcbammorpg",
+	"version": "0.1",
+	"schemaVersion": 1,
+	"name": "Minecraft, but an MMORPG",
+	"description": "",
+	"contact":{
+		"homepage": "https://jubiman.com/",
+		"sources": "https://github.com/jubiman/MCBAMMORPG",
+		"issues": "https://github.com/jubiman/MCBAMMORPG/issues"
+	}
+}
