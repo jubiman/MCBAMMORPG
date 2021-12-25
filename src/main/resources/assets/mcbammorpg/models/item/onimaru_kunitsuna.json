@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "mcbammorpg:item/swords/onimaru_kunitsuna"
+	}
+}

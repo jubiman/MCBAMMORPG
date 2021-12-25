@@ -1,0 +1,40 @@
+{
+	"entrypoints": {
+		"main": [
+		  "com.jubiman.mcbammorpg.MCBAMMORPG"
+		],
+		"client": [
+			"com.jubiman.mcbammorpg.MCBAMMORPGClient"
+		]
+	},
+	"mixins": [
+	  "mcbammorpg.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.12.12",
+		"fabric": "*",
+		"minecraft": "1.18.x",
+		"java": ">=17"
+	},
+	"environment": "*",
+	"id": "mcbammorpg",
+	"version": "${version}",
+	"schemaVersion": 1,
+	"name": "Minecraft, but an MMORPG",
+	"description": "",
+	"contact":{
+		"homepage": "https://jubiman.com/",
+		"sources": "https://github.com/jubiman/MCBAMMORPG",
+		"issues": "https://github.com/jubiman/MCBAMMORPG/issues"
+	},
+	"license": "GPLv3",
+	"authors": [
+		{
+			"name": "Jubiman",
+			"contact": {
+			  "homepage": "https://jubiman.com/",
+			  "sources": "https://github.com/jubiman/"
+			}
+		}
+	]
+}
